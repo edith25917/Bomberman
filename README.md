@@ -1,45 +1,17 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+## CatMan Game Demo
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+### Main Menu
+Select game mode (1 player or 2 players), character, and skills. <br>
+<img src="https://user-images.githubusercontent.com/45025236/132822375-d2e258a4-c1ff-4b2b-b383-24a329d39b41.gif" alt="main_menu" style="width:500px;"/>
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+### Level 1
+Find the wood to build the bridge and escape from the village with snakes.
+<img src="https://user-images.githubusercontent.com/45025236/132817356-be8e9fc1-a059-41ca-bbeb-f61967b8f964.gif" alt="lv1" style="width:500px;"/>
 
----
+### Level 2
+Find the key in the village and open the door of catsle. Don't forget to avoid pumpkin monster.
+<img src="https://user-images.githubusercontent.com/45025236/132822982-02b0d077-80bf-401e-85ea-51f389c23257.gif" alt="lv2" style="width:500px;"/>
 
-## Edit a file
-
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
-
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
-
----
-
-## Create a file
-
-Next, you’ll add a new file to this repository.
-
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+### Level 3
+Try to avoid the AI monster in the catsle and collect enough coins hidden in the box in order to win the game.
+<img src="https://user-images.githubusercontent.com/45025236/132818846-e0ff8682-246a-4310-b3d9-248d5330ec8a.gif" alt="lv3" style="width:500px;"/>
